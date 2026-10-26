@@ -1,5 +1,9 @@
 # Histórico de alterações
 
+## 1.1.1
+
+- Ícone JA e banner roxo para o Marketplace.
+
 ## 1.1.0
 
 - Novo nome: Visual Studio Purple Dark JA.
