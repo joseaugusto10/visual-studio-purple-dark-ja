@@ -1,0 +1,42 @@
+{
+  "name": "visual-studio-purple-dark-ja",
+  "displayName": "Visual Studio Purple Dark JA",
+  "description": "Tema escuro com detalhes roxos inspirado no Visual Studio, criado por José Augusto Lopes Almeida para compartilhar com a .Net Brasil Community.",
+  "version": "1.1.0",
+  "publisher": "community-local-themes",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "purple",
+    "visual studio",
+    "editor"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Visual Studio Purple Dark JA",
+        "uiTheme": "vs-dark",
+        "path": "./themes/VisualStudio2026PurpleDark-color-theme.json"
+      }
+    ]
+  },
+  "author": {
+    "name": "José Augusto Lopes Almeida",
+    "url": "https://github.com/joseaugusto10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joseaugusto10/visual-studio-purple-dark-ja.git"
+  },
+  "homepage": "https://github.com/joseaugusto10/visual-studio-purple-dark-ja#readme",
+  "bugs": {
+    "url": "https://github.com/joseaugusto10/visual-studio-purple-dark-ja/issues"
+  }
+}
